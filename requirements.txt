@@ -71,6 +71,8 @@ parso==0.8.5
 pathos==0.3.4
 pillow==12.1.1
 platformdirs==4.9.2
+plotly==6.5.2
+plotly-express==0.4.1
 pox==0.3.6
 ppft==1.7.7
 prettytable==3.17.0
@@ -114,3 +116,4 @@ wcwidth==0.2.14
 webcolors==25.10.0
 webencodings==0.5.1
 websocket-client==1.9.0
+wordcloud==1.9.6
